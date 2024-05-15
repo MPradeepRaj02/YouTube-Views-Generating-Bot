@@ -1,5 +1,5 @@
 '''
-Subscribe `Fauceter' Now :) https://www.youtube.com/channel/UCqmC9XrDnoihqqiiCOnPwDg
+Subscribe `Fauceter' Now :) https://www.youtube.com/watch?v=X8Ur-5cYmRQ
 '''
 
 from selenium import webdriver
